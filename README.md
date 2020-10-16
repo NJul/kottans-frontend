@@ -4,7 +4,7 @@
 
 ### ✔ 1. Git Basics [:fire:](#fire)
 
-### :white_large_square: 2. Linux CLI and HTTP :cloud:
+### ✔ 2. Linux CLI and HTTP [:cloud:](#cloud)
 
 ### :white_large_square: 3. Git Collaboration :raised_hands:
 
@@ -13,7 +13,7 @@
 
 I learned new commands from the [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) course
 
-![Screenshot git intro](./Screenshots/Git/git-intro.jpg "Git intro")
+![Screenshot git intro](./screenshots/git_basics/git-intro.jpg "Git intro")
 
 
 ```
@@ -87,4 +87,17 @@ creates a new commit to record the change.
 ```
 $ git branch backup
 ```
+### [:top: Top](#top)
+
+#
+### <a name="cloud">:cloud:</a> 2. Linux CLI and HTTP
+
+![Screenshot linuxsurvival quiz 1](./screenshots/task_linux_cli/linuxsurvival-quiz-1.jpg "Linuxsurvival quiz 1")
+
+![Screenshot linuxsurvival quiz 2](./screenshots/task_linux_cli/linuxsurvival-quiz-2.jpg "Linuxsurvival quiz 2")
+
+![Screenshot linuxsurvival quiz 3](./screenshots/task_linux_cli/linuxsurvival-quiz-3.jpg "Linuxsurvival quiz 3")
+
+![Screenshot linuxsurvival quiz 4](./screenshots/task_linux_cli/linuxsurvival-quiz-4.jpg "Linuxsurvival quiz 4")
+
 ### [:top: Top](#top)
