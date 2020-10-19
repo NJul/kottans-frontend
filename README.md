@@ -8,7 +8,7 @@
 
 ### :white_check_mark: 3. Git Collaboration&nbsp;[:raised_hands:](#raised_hands)
 
-### :black_large_square: 4. Intro to HTML and CSS&nbsp;[:sparkles:](#sparkles)
+### :white_check_mark: 4. Intro to HTML and CSS&nbsp;[:sparkles:](#sparkles)
 
 ### :black_large_square: 5. Responsive Web Design&nbsp;:fish:
 
@@ -218,5 +218,15 @@ Let's take another look at the different commands that you can do with git rebas
 - use f or fixup – to combine this commit's change into the previous one but drop the commit message
 - use x or exec – to run a shell command
 - use d or drop – to delete the commit
+
+### [:top: Top](#top)
+
+#
+### <a name="sparkles">:sparkles:</a> 4. Intro to HTML and CSS
+
+| <img src="./screenshots/task_html_css_intro/intro_to_html_and_css.jpg" width="60%" alt="Intro to HTML and CSS" /> |
+| :---------------------------------------------------------------------------------------------------------------: |
+|            <img src="./screenshots/task_html_css_intro/learn_html.jpg" width="60%" alt="Learn HTML" />            |
+|             <img src="./screenshots/task_html_css_intro/learn_css.jpg" width="60%" alt="Learn CSS" />             |
 
 ### [:top: Top](#top)
