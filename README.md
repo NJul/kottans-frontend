@@ -10,9 +10,11 @@
 
 ### :white_check_mark: 4. Intro to HTML and CSS&nbsp;[:sparkles:](#sparkles)
 
-### :black_large_square: 5. Responsive Web Design&nbsp;:fish:
+### :white_check_mark: 5. Responsive Web Design&nbsp;[:fish:](#fish)
 
-### :black_large_square: 6. HTML-CSS-Popup&nbsp;:high_brightness:
+### :black_large_square: 6. HTML-CSS-Popup&nbsp;[:beetle:](#beetle)
+
+### :black_large_square: 7. JavaScript Basics&nbsp;:high_brightness:
 
 #
 ### <a name="fire">:fire:</a> 1. Git Basics - Notes
@@ -20,7 +22,6 @@
 I learned new commands from the [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) course
 
 ![Screenshot git intro](./screenshots/git_basics/git-intro.jpg "Git intro")
-
 
 ```
 $ git log --stat
@@ -93,6 +94,9 @@ creates a new commit to record the change.
 ```
 $ git branch backup
 ```
+
+![Screenshot git basics](./screenshots/git_basics/learngitbranching-basics.png "Git basics")
+
 ### [:top: Top](#top)
 
 #
@@ -228,5 +232,106 @@ Let's take another look at the different commands that you can do with git rebas
 | :---------------------------------------------------------------------------------------------------------------: |
 |            <img src="./screenshots/task_html_css_intro/learn_html.jpg" width="60%" alt="Learn HTML" />            |
 |             <img src="./screenshots/task_html_css_intro/learn_css.jpg" width="60%" alt="Learn CSS" />             |
+
+### [:top: Top](#top)
+
+#
+### <a name="fish">:fish:</a> 5. Responsive Web Design
+
+[Mostly fluid](./responsive_web_design/mostly-fluid/mostly-fluid.html)  
+
+| ![Screenshot Responsive web design](./screenshots/task_responsive_web_design/responsive_web_design.jpg "Responsive web design") |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+|        <img src="./screenshots/task_responsive_web_design/flexbox_froggy.jpg" width="60%" alt="Intro to HTML and CSS" />        |
+
+### Extra materials
+
+The difference between responsive design and adaptive design is that responsive design adapts the rendering of a single page version. In contrast, adaptive design delivers multiple completely different versions of the same page.
+
+| <img src="./responsive_web_design/media-queries.jpg" alt="Media queries" /> |
+| :-------------------------------------------------------------------------: |
+|  <img src="./responsive_web_design/mobile-first.jpg" alt="Mobile first" />  |
+
+
+```
+<img src="image.gif" alt="image" class="full-width-img">
+```
+
+```
+img {
+  width: 100%;
+}
+
+.full-width-img {
+  width: 100%;
+}
+
+<img id="owl">
+#owl {
+  width: 640px;
+  max-width: 100%;
+}
+```
+
+```
+@media screen and (min-width: 780px) {
+  .full-width-img {
+    margin: auto;
+    width: 90%;
+  }
+}
+```
+If the screen is at least 780 pixels wide, “full-width-img” class images will take up 90% of the screen and be automatically centered by equally wide margins.
+
+<img src="./responsive_web_design/bootstrap-responsive-breakpoints.jpg" alt="Bootstrap Responsive Breakpoints" />
+
+<img src="./responsive_web_design/common-website-layout.jpg" alt="Common Website Layout" />
+
+```
+#wrapper {width:95%;  margin: 0 auto; }
+
+#header {width:100%; }
+
+#content {width:100%; }
+
+#sidebar {width:100%; }
+
+#footer {width:100%; }
+
+// Small devices (landscape phones, 576px and up)
+
+@media (min-width: 576px) {
+
+// Medium devices (tablets, 768px and up)
+
+@media (min-width: 768px) {
+
+#wrapper {width:90%;  margin: 0 auto; }
+
+#content {width:70%; float:left; }
+
+#sidebar {width:30%; float:right; }
+
+// Large devices (desktops, 992px and up)
+
+@media (min-width: 992px) { ... }
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+
+@media (min-width: 1200px) {
+
+#wrapper {width:90%;  margin: 0 auto; }
+
+}
+```
+
+Using a mobile-first approach, you can style the main layout elements like this (with no media query for the basic styles for mobile phones)
+
+### [:top: Top](#top)
+
+#
+### <a name="beetle">:beetle:</a> 6. HTML-CSS-Popup
 
 ### [:top: Top](#top)
