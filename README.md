@@ -12,9 +12,25 @@
 
 ### :white_check_mark: 5. Responsive Web Design&nbsp;[:fish:](#fish)
 
-### :black_large_square: 6. HTML-CSS-Popup&nbsp;[:beetle:](#beetle)
+### :white_check_mark: 6. HTML-CSS-Popup&nbsp;[:beetle:](#beetle)
 
-### :black_large_square: 7. JavaScript Basics&nbsp;:high_brightness:
+### :black_large_square: 7. JavaScript Basics&nbsp;[:high_brightness:](#high_brightness)
+
+### :black_large_square: 8. Document Object Model&nbsp;[:european_castle:](#european_castle)
+
+### :black_large_square: 9. Building a Tiny JS World (pre-OOP)&nbsp;[:sunny:](#sunny)
+
+### :black_large_square: 10. Object-Oriented JavaScript&nbsp;[:sunny:](#sunny)
+
+### :black_large_square: 11. OOP exercise&nbsp;[:sunny:](#sunny)
+
+### :black_large_square: 12. Offline Web Applications&nbsp;[:sunny:](#sunny)
+
+### :black_large_square: 13. Memory – Pair Game&nbsp;[:sunny:](#sunny)
+
+### :black_large_square: 14. Website Performance Optimization&nbsp;[:sunny:](#sunny)
+
+### :black_large_square: 15. Friends App&nbsp;[:sunny:](#sunny)
 
 #
 ### <a name="fire">:fire:</a> 1. Git Basics - Notes
@@ -27,12 +43,20 @@ I learned new commands from the [Version Control with Git](https://www.udacity.c
 $ git log --stat
 ```
 
-The git log command has a flag **--stat** ("stat" is short for "statistics") that can be used to display the files that have been changed in the commit, as well as the number of lines that have been added or deleted 
+The git log command has a flag **--stat** ("stat" is short for "statistics") that can be used to display the files that have been changed in the commit, as well as the number of lines that have been added or deleted
+
+<img src="https://api.thecatapi.com/v1/images/search?format=src&size=small" align="right" width="40%" alt="Cat" />
 
 This command:
 displays the file(s) that have been modified
 displays the number of lines that have been added/removed
 displays a summary line with the total number of modified files and lines that have been added/removed
+
+<details>
+  <summary>
+    <strong>More git commands</strong>
+  </summary>
+
 ```
 $ git log --oneline
 $ git log --stat fdf5493
@@ -72,7 +96,7 @@ This shows all branches and therefore all commits in the repository.
 ```
 $ git log --oneline --decorate --graph --all
 ```
-<img src="https://api.thecatapi.com/v1/images/search?format=src&size=small" align="right" width="40%" alt="Cat" />
+</details>
 
 If you make a merge on the wrong branch, use this command to undo the merge:
 ```
@@ -81,7 +105,7 @@ $ git reset --hard HEAD^
 + There are two types of merges:
 
   + Fast-forward merge – the branch being merged in must be ahead of the checked out branch. The checked out branch's pointer will just be moved forward to point to the same commit as the other branch.
-	
+
   + The regular type of merge –
 		two divergent branches are combined
 		a merge commit is created
@@ -91,6 +115,7 @@ $ git revert <SHA-of-commit-to-revert>
 This command:
 will undo the changes that were made by the provided commit
 creates a new commit to record the change.
+
 ```
 $ git branch backup
 ```
@@ -144,8 +169,12 @@ $ git log --grep bug
 $ git log --grep "css bug"
 $ git log --grep="border radius issue in Safari"
 ```
+<details>
+  <summary>
+    <strong>This will give us a connection to the source repository</strong>
+  </summary>
 
-```
+  ```
 $ git remote add upstream https://github.com/udacity/course-collaboration-travel-plans.git
 ```
 This will give us a connection to the source repository.
@@ -164,19 +193,19 @@ $ git log --oneline --graph --decorate --all
 ```
 The terminal application showing the log of my local repository after fetching the upstream remote's changes.
 
-*to make sure I'm on the correct branch for* merging
+*To make sure I'm on the correct branch for merging*
 
 ```
 $ git checkout master
 ```
 
-*merge in Lam's changes*
+*Merge in Lam's changes*
 
 ```
 $ git merge upstream/master
 ```
 
-*send Lam's changes to \*my\* remote*
+*Send Lam's changes to \*my\* remote*
 
 ```
 $ git push origin master
@@ -187,12 +216,19 @@ $ git push origin master
 To get commits from a source repository into your forked repository on GitHub you need to:
 
 - get the cloneable URL of the source repository
-- create a new remote with the git remote add command 
-  - use the shortname upstream to point to the source repository 
+- create a new remote with the git remote add command
+  - use the shortname upstream to point to the source repository
   - provide the URL of the source repository
-- fetch the new upstream remote 
+- fetch the new upstream remote
 - merge the upstream's branch into a local branch
 - push the newly updated local branch to your origin repo
+
+</details>
+
+<details>
+  <summary>
+    <strong>Interactive rebase</strong>
+  </summary>
 
 ## Interactive rebase
 
@@ -223,6 +259,10 @@ Let's take another look at the different commands that you can do with git rebas
 - use x or exec – to run a shell command
 - use d or drop – to delete the commit
 
+</details>
+
+![Screenshot remote repositories](./screenshots/git_basics/learngitbranching-remote-repositories.png "Remote repositories")
+
 ### [:top: Top](#top)
 
 #
@@ -238,15 +278,18 @@ Let's take another look at the different commands that you can do with git rebas
 #
 ### <a name="fish">:fish:</a> 5. Responsive Web Design
 
-[Mostly fluid](./responsive_web_design/mostly-fluid/mostly-fluid.html)  
-
 | ![Screenshot Responsive web design](./screenshots/task_responsive_web_design/responsive_web_design.jpg "Responsive web design") |
 | :-----------------------------------------------------------------------------------------------------------------------------: |
 |        <img src="./screenshots/task_responsive_web_design/flexbox_froggy.jpg" width="60%" alt="Intro to HTML and CSS" />        |
 
-### Extra materials
+<details>
+  <summary>
+    <strong>Extra materials</strong>
+  </summary>
 
-The difference between responsive design and adaptive design is that responsive design adapts the rendering of a single page version. In contrast, adaptive design delivers multiple completely different versions of the same page.
+  [Mostly fluid](./responsive_web_design/mostly-fluid/mostly-fluid.html)
+
+  The difference between responsive design and adaptive design is that responsive design adapts the rendering of a single page version. In contrast, adaptive design delivers multiple completely different versions of the same page.
 
 | <img src="./responsive_web_design/media-queries.jpg" alt="Media queries" /> |
 | :-------------------------------------------------------------------------: |
@@ -329,9 +372,38 @@ If the screen is at least 780 pixels wide, “full-width-img” class images wil
 
 Using a mobile-first approach, you can style the main layout elements like this (with no media query for the basic styles for mobile phones)
 
+</details>
+
 ### [:top: Top](#top)
 
 #
 ### <a name="beetle">:beetle:</a> 6. HTML-CSS-Popup
+
+[Demo](https://njul.github.io/hooli-style-popup/) |
+[Code base](https://github.com/NJul/hooli-style-popup)
+
+![Screenshot HTML-CSS-Popup](./screenshots/html-css-popup.png "HTML-CSS-Popup")
+
+### [:top: Top](#top)
+
+#
+### <a name="high_brightness">:high_brightness:</a> 7. JavaScript Basics
+
+![Screenshot Intro to JS](./screenshots/task_js_basics/intro-to-js.jpg "Intro to JS")
+
+### [:top: Top](#top)
+
+#
+### <a name="european_castle">:european_castle:</a> 8. Document Object Model
+
+### [:top: Top](#top)
+
+#
+### <a name="sunny">:sunny:</a> 9. Building a Tiny JS World (pre-OOP)
+
+### [:top: Top](#top)
+
+#
+### <a name="sunny">:sunny:</a> 12. Offline Web Applications
 
 ### [:top: Top](#top)
