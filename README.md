@@ -14,7 +14,7 @@
 
 ### :white_check_mark: 6. HTML-CSS-Popup&nbsp;[:beetle:](#beetle)
 
-### :black_large_square: 7. JavaScript Basics&nbsp;[:high_brightness:](#high_brightness)
+### :white_check_mark: 7. JavaScript Basics&nbsp;[:high_brightness:](#high_brightness)
 
 ### :black_large_square: 8. Document Object Model&nbsp;[:european_castle:](#european_castle)
 
@@ -390,6 +390,8 @@ Using a mobile-first approach, you can style the main layout elements like this 
 ### <a name="high_brightness">:high_brightness:</a> 7. JavaScript Basics
 
 ![Screenshot Intro to JS](./screenshots/task_js_basics/intro-to-js.jpg "Intro to JS")
+
+![Screenshot JavaScript freeCodeCamp](./screenshots/task_js_basics/javascript-freecodecamp.jpg "JavaScript freeCodeCamp")
 
 ### [:top: Top](#top)
 
