@@ -16,7 +16,7 @@
 
 ### :white_check_mark: 7. JavaScript Basics&nbsp;[:high_brightness:](#high_brightness)
 
-### :black_large_square: 8. Document Object Model&nbsp;[:european_castle:](#european_castle)
+### :white_check_mark: 8. Document Object Model&nbsp;[:european_castle:](#european_castle)
 
 ### :black_large_square: 9. Building a Tiny JS World (pre-OOP)&nbsp;[:sunny:](#sunny)
 
@@ -397,6 +397,13 @@ Using a mobile-first approach, you can style the main layout elements like this 
 
 #
 ### <a name="european_castle">:european_castle:</a> 8. Document Object Model
+
+![Screenshot JavaScript and the DOM](./screenshots/task_js_dom/javascript-and-the-dom.jpg "JavaScript and the DOM")
+
+[Demo](https://njul.github.io/dom-api-task/) |
+[Code base](https://github.com/NJul/dom-api-task)
+
+![Screenshot dom-api-task](./screenshots/dom-api-task.png "Document Object Model")
 
 ### [:top: Top](#top)
 
