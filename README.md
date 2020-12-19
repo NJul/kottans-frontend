@@ -12,23 +12,23 @@
 
 ### :white_check_mark: 5. Responsive Web Design&nbsp;[:fish:](#fish)
 
-### :white_check_mark: 6. HTML-CSS-Popup&nbsp;[:beetle:](#beetle)
+### :white_check_mark: 6. HTML-CSS-Popup&nbsp;[:beetle:](#beetle) - practice
 
 ### :white_check_mark: 7. JavaScript Basics&nbsp;[:high_brightness:](#high_brightness)
 
-### :white_check_mark: 8. Document Object Model&nbsp;[:european_castle:](#european_castle)
+### :white_check_mark: 8. Document Object Model&nbsp;[:european_castle:](#european_castle) - practice
 
-### :black_large_square: 9. Building a Tiny JS World (pre-OOP)&nbsp;[:sunny:](#sunny)
+### :white_check_mark: 9. Building a Tiny JS World (pre-OOP)&nbsp;[:sunny:](#sunny) - practice
 
-### :black_large_square: 10. Object-Oriented JavaScript&nbsp;[:sunny:](#sunny)
+### :black_large_square: 10. Object-Oriented JavaScript&nbsp;[:japanese_castle:](#japanese_castle) - practice
 
-### :black_large_square: 11. OOP exercise&nbsp;[:sunny:](#sunny)
+### :black_large_square: 11. OOP exercise&nbsp;[:snail:](#snail) - practice
 
-### :black_large_square: 12. Offline Web Applications&nbsp;[:sunny:](#sunny)
+### :black_large_square: 12. Offline Web Applications&nbsp;[:grapes:](#grapes) - <em>optional</em>
 
 ### :black_large_square: 13. Memory – Pair Game&nbsp;[:sunny:](#sunny)
 
-### :black_large_square: 14. Website Performance Optimization&nbsp;[:sunny:](#sunny)
+### :black_large_square: 14. Website Performance Optimization&nbsp;[:sunny:](#sunny) - <em>optional</em>
 
 ### :black_large_square: 15. Friends App&nbsp;[:sunny:](#sunny)
 
@@ -410,9 +410,26 @@ Using a mobile-first approach, you can style the main layout elements like this 
 #
 ### <a name="sunny">:sunny:</a> 9. Building a Tiny JS World (pre-OOP)
 
+[Demo](https://njul.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/NJul/a-tiny-JS-world/blob/master/index.js)
+
+![Screenshot A Tiny JS World](./screenshots/task_a_tiny_js_world/a-tiny-js-world.png "A Tiny JS World")
+
 ### [:top: Top](#top)
 
 #
-### <a name="sunny">:sunny:</a> 12. Offline Web Applications
+### <a name="japanese_castle">:japanese_castle:</a> 10.  Object-Oriented JavaScript
+
+Codewars: [https://www.codewars.com/users/NJul](https://www.codewars.com/users/NJul)
+
+### [:top: Top](#top)
+
+#
+### <a name="snail">:snail:</a> 11. OOP exercise
+
+### [:top: Top](#top)
+
+#
+### <a name="grapes">:grapes:</a> 12. Offline Web Applications
 
 ### [:top: Top](#top)
