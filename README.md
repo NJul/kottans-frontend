@@ -20,17 +20,7 @@
 
 ### :white_check_mark: 9. Building a Tiny JS World (pre-OOP)&nbsp;[:sunny:](#sunny) - practice
 
-### :black_large_square: 10. Object-Oriented JavaScript&nbsp;[:japanese_castle:](#japanese_castle) - practice
-
-### :black_large_square: 11. OOP exercise&nbsp;[:snail:](#snail) - practice
-
-### :black_large_square: 12. Offline Web Applications&nbsp;[:grapes:](#grapes) - <em>optional</em>
-
-### :black_large_square: 13. Memory – Pair Game&nbsp;[:sunny:](#sunny)
-
-### :black_large_square: 14. Website Performance Optimization&nbsp;[:sunny:](#sunny) - <em>optional</em>
-
-### :black_large_square: 15. Friends App&nbsp;[:sunny:](#sunny)
+### :white_check_mark: 10. Object-Oriented JavaScript&nbsp;[:japanese_castle:](#japanese_castle) - practice
 
 #
 ### <a name="fire">:fire:</a> 1. Git Basics - Notes
@@ -422,14 +412,19 @@ Using a mobile-first approach, you can style the main layout elements like this 
 
 Codewars: [https://www.codewars.com/users/NJul](https://www.codewars.com/users/NJul)
 
+![Screenshot task-js-oop](./screenshots/task_js_oop/js-oop.jpg "Object-Oriented JavaScript")
+
+[Demo](https://njul.github.io/frontend-nanodegree-arcade-game/) |
+[Code base](https://github.com/NJul/frontend-nanodegree-arcade-game)
+
+![Screenshot task-frogger-game](./screenshots/task_js_oop/frogger-game.jpg "Object-Oriented JavaScript")
+
 ### [:top: Top](#top)
 
 #
 ### <a name="snail">:snail:</a> 11. OOP exercise
 
-### [:top: Top](#top)
-
-#
-### <a name="grapes">:grapes:</a> 12. Offline Web Applications
+[Demo](https://njul.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/NJul/a-tiny-JS-world/blob/master/index.js)
 
 ### [:top: Top](#top)
