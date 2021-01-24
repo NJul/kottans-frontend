@@ -1,6 +1,6 @@
 # kottans-frontend&nbsp;:cat2:
 
-<a name="top"></a>
+<a name="top-1"></a>
 
 ### :white_check_mark: 1. Git Basics&nbsp;[:fire:](#fire)
 
@@ -21,6 +21,10 @@
 ### :white_check_mark: 9. Building a Tiny JS World (pre-OOP)&nbsp;[:sunny:](#sunny) - practice
 
 ### :white_check_mark: 10. Object-Oriented JavaScript&nbsp;[:japanese_castle:](#japanese_castle) - practice
+
+<a name="top-2"></a>
+
+### :white_check_mark: HTML&nbsp;/&nbsp;CSS&nbsp;[:blue_heart:](#blue_heart) - practice
 
 #
 ### <a name="fire">:fire:</a> 1. Git Basics - Notes
@@ -112,7 +116,7 @@ $ git branch backup
 
 ![Screenshot git basics](./screenshots/git_basics/learngitbranching-basics.png "Git basics")
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
 
 #
 ### <a name="cloud">:cloud:</a> 2. Linux CLI and HTTP
@@ -123,7 +127,7 @@ $ git branch backup
 | <img src="./screenshots/task_linux_cli/linuxsurvival-quiz-3.jpg" width="60%" align="left" alt="Linuxsurvival quiz 3" />  |
 | <img src="./screenshots/task_linux_cli/linuxsurvival-quiz-4.jpg" width="60%" align="right" alt="Linuxsurvival quiz 4" /> |
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
 
 #
 ### <a name="raised_hands">:raised_hands:</a> 3. Git Collaboration
@@ -253,7 +257,7 @@ Let's take another look at the different commands that you can do with git rebas
 
 ![Screenshot remote repositories](./screenshots/git_basics/learngitbranching-remote-repositories.png "Remote repositories")
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
 
 #
 ### <a name="sparkles">:sparkles:</a> 4. Intro to HTML and CSS
@@ -263,7 +267,7 @@ Let's take another look at the different commands that you can do with git rebas
 |            <img src="./screenshots/task_html_css_intro/learn_html.jpg" width="60%" alt="Learn HTML" />            |
 |             <img src="./screenshots/task_html_css_intro/learn_css.jpg" width="60%" alt="Learn CSS" />             |
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
 
 #
 ### <a name="fish">:fish:</a> 5. Responsive Web Design
@@ -364,7 +368,7 @@ Using a mobile-first approach, you can style the main layout elements like this 
 
 </details>
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
 
 #
 ### <a name="beetle">:beetle:</a> 6. HTML-CSS-Popup
@@ -374,7 +378,7 @@ Using a mobile-first approach, you can style the main layout elements like this 
 
 ![Screenshot HTML-CSS-Popup](./screenshots/html-css-popup.png "HTML-CSS-Popup")
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
 
 #
 ### <a name="high_brightness">:high_brightness:</a> 7. JavaScript Basics
@@ -383,7 +387,7 @@ Using a mobile-first approach, you can style the main layout elements like this 
 
 ![Screenshot JavaScript freeCodeCamp](./screenshots/task_js_basics/javascript-freecodecamp.jpg "JavaScript freeCodeCamp")
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
 
 #
 ### <a name="european_castle">:european_castle:</a> 8. Document Object Model
@@ -395,7 +399,7 @@ Using a mobile-first approach, you can style the main layout elements like this 
 
 ![Screenshot dom-api-task](./screenshots/dom-api-task.png "Document Object Model")
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
 
 #
 ### <a name="sunny">:sunny:</a> 9. Building a Tiny JS World (pre-OOP)
@@ -405,7 +409,7 @@ Using a mobile-first approach, you can style the main layout elements like this 
 
 ![Screenshot A Tiny JS World](./screenshots/task_a_tiny_js_world/a-tiny-js-world.png "A Tiny JS World")
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
 
 #
 ### <a name="japanese_castle">:japanese_castle:</a> 10.  Object-Oriented JavaScript
@@ -419,7 +423,7 @@ Codewars: [https://www.codewars.com/users/NJul](https://www.codewars.com/users/N
 
 ![Screenshot task-frogger-game](./screenshots/task_js_oop/frogger-game.jpg "Object-Oriented JavaScript")
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
 
 #
 ### <a name="snail">:snail:</a> 11. OOP exercise
@@ -427,4 +431,16 @@ Codewars: [https://www.codewars.com/users/NJul](https://www.codewars.com/users/N
 [Demo](https://njul.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/NJul/a-tiny-JS-world/blob/master/index.js)
 
-### [:top: Top](#top)
+### [:top: Top](#top-1)
+
+#
+### <a name="blue_heart">:blue_heart:</a> HTML&nbsp;/&nbsp;CSS
+
+> *How browser works? Lecture 3*
+
+[Lecture 1](https://html-css-njul.netlify.app/) |
+[Lecture 2](https://htmlcss-l2.netlify.app/) |
+[Lecture 3](https://howbrowserworks-l3.netlify.app/) |
+[Task 1](#)
+
+### [:top:](#top-2)
