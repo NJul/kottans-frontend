@@ -20,7 +20,7 @@
 
 ### :white_check_mark: 9. Building a Tiny JS World (pre-OOP)&nbsp;[:sunny:](#sunny) - practice
 
-### :white_check_mark: 10. Object-Oriented JavaScript&nbsp;[:japanese_castle:](#japanese_castle) - practice
+### :white_check_mark: 11. OOP exercise&nbsp;[:snail:](#snail) - practice
 
 <a name="top-2"></a>
 
@@ -405,7 +405,7 @@ Using a mobile-first approach, you can style the main layout elements like this 
 ### <a name="sunny">:sunny:</a> 9. Building a Tiny JS World (pre-OOP)
 
 [Demo](https://njul.github.io/a-tiny-JS-world/) |
-[Code base](https://github.com/NJul/a-tiny-JS-world/blob/master/index.js)
+[Code base](https://github.com/NJul/a-tiny-JS-world/blob/f0c3ed3f84e14c5a9a0a91968f59c158d7dbfb07/index.js)
 
 ![Screenshot A Tiny JS World](./screenshots/task_a_tiny_js_world/a-tiny-js-world.png "A Tiny JS World")
 
@@ -415,6 +415,8 @@ Using a mobile-first approach, you can style the main layout elements like this 
 ### <a name="japanese_castle">:japanese_castle:</a> 10.  Object-Oriented JavaScript
 
 Codewars: [https://www.codewars.com/users/NJul](https://www.codewars.com/users/NJul)
+
+![Codewars](https://www.codewars.com/users/NJul/badges/large "Codewars")
 
 ![Screenshot task-js-oop](./screenshots/task_js_oop/js-oop.jpg "Object-Oriented JavaScript")
 
@@ -431,6 +433,8 @@ Codewars: [https://www.codewars.com/users/NJul](https://www.codewars.com/users/N
 [Demo](https://njul.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/NJul/a-tiny-JS-world/blob/master/index.js)
 
+![Screenshot A Tiny JS World OOP](./screenshots/task_a_tiny_js_world/a-tiny-js-world-oop.jpg "A Tiny JS World OOP")
+
 ### [:top: Top](#top-1)
 
 #
@@ -444,3 +448,7 @@ Codewars: [https://www.codewars.com/users/NJul](https://www.codewars.com/users/N
 [Task 1](#)
 
 ### [:top:](#top-2)
+
+#
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNJul%2Fkottans-frontend&count_bg=%2339B16D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
